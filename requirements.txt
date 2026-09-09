@@ -1,6 +1,6 @@
 asgiref==3.12.1
 attrs==26.1.0
-Django==6.1.1
+Django==4.2.19
 django-debug-toolbar==8.0.0
 djangorestframework==3.18.1
 djangorestframework_simplejwt==5.5.1
